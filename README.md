@@ -43,7 +43,7 @@ Fourth-year Informatics and Computer Science student at Strathmore University, N
 
 ## Certifications
 - CCNA: Switching, Routing, and Wireless Essentials
-- Swift Fundamentals (Apple / Cisco)
+- Swift Fundamentals (Apple)
 
 ---
 
