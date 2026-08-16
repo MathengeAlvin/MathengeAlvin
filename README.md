@@ -47,11 +47,10 @@ Fourth-year Informatics and Computer Science student at Strathmore University, N
 
 ---
 
-## GitHub Stats
+## GitHub Stats & Languages
 
 <div align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MathengeAlvin&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff&count_private=true" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MathengeAlvin&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" height="150" alt="Top Languages" />
+  <img src="https://vani-stats.vercel.app/api?username=MathengeAlvin&theme=tokyonight&max_langs=8" alt="Top Languages Donut Chart" />
 </div>
 
 <br/>
