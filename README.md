@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=ALVIN+MATHENGE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Building+Software+that+Works+for+People&descAlignY=58&descColor=67e8f9&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:203a43,100:2c5364&height=180&section=header&text=ALVIN+MATHENGE&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=Building+Software+that+Works+for+People&descAlignY=58&descColor=67e8f9&animation=fadeIn" width="100%" />
 </p>
 
 # Hi there, I'm Alvin 👋
@@ -48,16 +48,17 @@ Fourth-year Informatics and Computer Science student at Strathmore University, N
 ---
 
 ## GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MathengeAlvin&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff" alt="GitHub Stats" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MathengeAlvin&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" alt="Top Languages" />
 
-  <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathengeAlvin&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" alt="Contribution Graph" />
-</p>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=MathengeAlvin&show_icons=true&hide_border=true&bg_color=0f0c29&title_color=67e8f9&icon_color=67e8f9&text_color=ffffff&count_private=true" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=MathengeAlvin&layout=compact&hide_border=true&bg_color=0f0c29&title_color=67e8f9&text_color=ffffff" height="150" alt="Top Languages" />
+</div>
 
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MathengeAlvin&bg_color=0f0c29&color=67e8f9&line=2c5364&point=67e8f9&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
 
 ---
 
@@ -65,5 +66,5 @@ Fourth-year Informatics and Computer Science student at Strathmore University, N
 - 📧 alvin.mathenge@strathmore.edu
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f0c29&height=100&section=footer" width="100%" />
 </p>
