@@ -115,15 +115,6 @@ Lightweight client-side workout tracking web dashboard featuring structured Git 
 
 ---
 
-# 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/MathengeAlvin/MathengeAlvin/output/github-contribution-grid-snake-dark.svg"/>
-
-</p>
-
----
 
 # 📫 Connect With Me
 
